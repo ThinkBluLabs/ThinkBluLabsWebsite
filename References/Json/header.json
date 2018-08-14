@@ -1,0 +1,36 @@
+{
+    "website_name": "ThinkBLU Labs",
+    "website_main_heading": "ThinkBlu Labs",
+    "website_sub_heading": "Belief, Love, Unity",
+    "website_logo_url" : "",
+    "headers":[
+        {
+            "name": "Home",
+            "urlname": "Home",
+            "li_classname": "active",
+            "a_classname": "",
+            "submenu":[]
+        },
+        {
+            "name": "About",
+            "urlname": "About",
+            "li_classname": "",
+            "a_classname": "",
+            "submenu":[]
+        },
+        {
+            "name": "Services",
+            "urlname": "Services",
+            "li_classname": "",
+            "a_classname": "",
+            "submenu":[]
+        },
+        {
+            "name": "Contact",
+            "urlname": "Contact",
+            "li_classname": "",
+            "a_classname": "",
+            "submenu":[]
+        }
+    ]
+}
